@@ -1,0 +1,3 @@
+celsius = float (input("The Tempeture In Celsius : "))
+fahrenheit = (celsius*9/5)+32
+print(f"The Tempeture In fahrenheit Is :{fahrenheit}")
